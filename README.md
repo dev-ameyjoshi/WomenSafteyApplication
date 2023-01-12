@@ -6,13 +6,6 @@ Women Safety App is user friendly application built in Android Studio,
 it is simple to implement,easy to understand.
 
 
-
-[<img src="media/womenSafety.png" />](https://t.me/vinayak_09)
-
-
-
-
-
 ## Features
 
 - Easy to implement
@@ -26,7 +19,7 @@ it is simple to implement,easy to understand.
 - Basic knowledge about Firebase Authentication and Realtime database.
 ## Build and Run Application
 
-###### Women Safety Application requires Android Oreo or newer version to run.
+
 Follow this steps to get Working Project!
 ```
 Clone this repository or download file
